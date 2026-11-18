@@ -28,3 +28,8 @@ BrowOS Version: 1.0 Early Access
 More Updates
 
 This is Fan Version
+
+
+# Open Fan Version
+
+https://aptmimimi-v2.github.io/Git-BrowOS_Fan_Version/
