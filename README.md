@@ -13,6 +13,10 @@ https://github.com/allysun-here
 AllySun's YouTube:
 https://youtube.com/@yourallyhere
 
+Fan Version By Asrbmy
+
+Asrbmy's GitHub: https://github.com/asrbmy
+
 # Information
 
 This Have Some Bugs
@@ -20,3 +24,5 @@ This Have Some Bugs
 BrowOS Version: 1.0 Early Access
 
 More Updates
+
+This is Fan Version
